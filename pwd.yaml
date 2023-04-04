@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    try1:
+      email: try1@yahoo.com
+      name: try1
+      password: '$2b$12$A7/1ONGPmJRzZO6/bw/GkOhdmfMN80B8ijJMg72cpSwZe1qTm1Gz.'
+    try2:
+      email: try2@yahoo.com
+      name: try2
+      password: t2
+cookie:
+  expiry_days: 0
+  key: "abc" # Must be string
+  name: '$2b$12$9AuZo.FULO38Q7WWcHCNE.65u0/J.TM09aLc27KMbGmp2vl5zLYTO'
+preauthorized:
+  emails:
+  - melsby@gmail.com
